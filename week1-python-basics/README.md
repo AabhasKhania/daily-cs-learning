@@ -1,0 +1,8 @@
+## Week 1 – Human Before Hacker
+
+I don't want to just "learn to code" like everyone else.
+
+I want to build **self-worth**, **discipline**, and **direction** — in public, using code as my medium.  
+Every file here is part of a conversation with myself and those like me who need a signal to rise.
+
+- `day1_broken_loop_of_life.py`: A loop that reflects energy, distraction, and consistency in life.
