@@ -6,3 +6,5 @@ I want to build **self-worth**, **discipline**, and **direction** — in public,
 Every file here is part of a conversation with myself and those like me who need a signal to rise.
 
 - `day1_broken_loop_of_life.py`: A loop that reflects energy, distraction, and consistency in life.
+- `day2_inner_agent.py`: A command-line interaction that reflects your mood and pushes you to stay committed. It's the earliest form of AI-like thinking — emotional logic.
+- 
