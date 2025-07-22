@@ -7,5 +7,6 @@ Every file here is part of a conversation with myself and those like me who need
 
 - `day1_broken_loop_of_life.py`: A loop that reflects energy, distraction, and consistency in life.
 - `day2_inner_agent.py`: A command-line interaction that reflects your mood and pushes you to stay committed. It's the earliest form of AI-like thinking — emotional logic.
-- `day3_decision_tree.py`: A reflective decision tree that helps navigate between BSc Nursing, Computer Science, or uncertainty — using nested conditionals to simulate life paths.
+- `day3_decision_tree.py`: A reflective decision tree that helps navigate between Nursing, Computer Science, or uncertainty — using nested conditionals to simulate life paths.
 - `day4_foundation_block.py`: A reflection of confusing effort and logic-driven clarity. This script teaches you to separate thoughts, actions, and outcomes — the base of any real builder’s mindset.
+- `day5_script_that_wrote_you.py`: A reflection on the auto-pilot life we've been handed. Uses functions, lists, and conditionals to simulate a life script — and inspire authorship.
