@@ -7,7 +7,7 @@ name = input("What's your name, wanderer? ")
 print(f"\nHi {name}, let’s explore what path you feel drawn to today.\n")
 
 print("Choose your current interest:")
-print("1. BSc Nursing")
+print("1. Nursing")
 print("2. Computer Science")
 print("3. I don’t know / I'm confused")
 
