@@ -10,3 +10,5 @@ Every file here is part of a conversation with myself and those like me who need
 - `day3_decision_tree.py`: A reflective decision tree that helps navigate between Nursing, Computer Science, or uncertainty — using nested conditionals to simulate life paths.
 - `day4_foundation_block.py`: A reflection of confusing effort and logic-driven clarity. This script teaches you to separate thoughts, actions, and outcomes — the base of any real builder’s mindset.
 - `day5_script_that_wrote_you.py`: A reflection on the auto-pilot life we've been handed. Uses functions, lists, and conditionals to simulate a life script — and inspire authorship.
+- `day6_eternal_pillar.py`: A pure example of coding fundamentals — variables, conditionals, loops, and functions — all tied together with clarity and self-reflection.
+
