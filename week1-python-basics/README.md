@@ -13,3 +13,4 @@ Every file here is part of a conversation with myself and those like me who need
 - `day6_eternal_pillar.py`: A pure example of coding fundamentals — variables, conditionals, loops, and functions — all tied together with clarity and self-reflection.
 - `day7_life_architect.py`: A script to design your day like a software architect — install traits, avoid triggers, and boot your identity with intention. Combines lists, loops, choices, and reflection.
 - `day8_last_spark.py`: A code for days with no motivation. You just write one line. If there’s a hint of hope in it — we honor it. If not, we still count the effort.
+- `day9_reboot_button.py`: A quick mental reset tool. Asks if you're ready to reboot emotionally — and reminds you it's always okay to restart.
