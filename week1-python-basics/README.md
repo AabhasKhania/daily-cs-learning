@@ -16,3 +16,4 @@ Every file here is part of a conversation with myself and those like me who need
 - `day9_reboot_button.py`: A quick mental reset tool. Asks if you're ready to reboot emotionally — and reminds you it's always okay to restart.
 - `day10_time_mirror.py`: Inspired by the 38% hidden time concept. Helps you calculate how much free time you really have and whether you’re using it for deep work or distractions.
 - `day11_prime_checker.py`: Optimized prime number checker using the 6k ± 1 rule. Shows grasp of number theory, performance, and control flow — a staple in CS interviews.
+- `day12_word_counter.py`: Counts the number of words in a text file. This is a foundational utility used in data analysis, scripting, and natural language processing.
